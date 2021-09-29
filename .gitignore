@@ -1,0 +1,8 @@
+*env
+*data
+*tutorial1
+*tutorial2
+*.ipynb_checkpoints
+*.__pycache__
+*requirements.txt
+*.DS_STORE
